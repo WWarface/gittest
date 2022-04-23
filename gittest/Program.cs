@@ -16,6 +16,8 @@ namespace gittest
             int c = 5 + b;
 
             int e = 24;
+
+            int[] array = { 2, 5, 2, 1 };
         }
     }
 }
