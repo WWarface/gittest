@@ -10,10 +10,10 @@ namespace gittest
     {
         static void Main(string[] args)
         {
-            int a = 5;
+            
             int b = 8;
 
-            int c = a + b;
+            int c = 5 + b;
         }
     }
 }
