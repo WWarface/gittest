@@ -14,6 +14,8 @@ namespace gittest
             int b = 8;
 
             int c = 5 + b;
+
+            int e = 24;
         }
     }
 }
